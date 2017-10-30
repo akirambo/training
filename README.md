@@ -1,2 +1,2 @@
 # training
-toy scripts for learn. 
+toy scripts for learning. 
